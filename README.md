@@ -1,4 +1,4 @@
-# Redes
+# Redes de Computadores 
 Trabalhos Práticos para disciplina de Redes de Computadores - (CCF 452), Universidade Federal de Viçosa, Campus Florestal 
 
 ### A  estruturação segue o esquema a seguir:
